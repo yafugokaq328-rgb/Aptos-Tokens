@@ -277,6 +277,8 @@
     "name": "PACT",
     "symbol": "PACT",
     "decimals": 8,
+    "bridge": null,
+    "panoraSymbol": "PACT",
     "logoUrl": "https://assets.panora.exchange/tokens/aptos/PACT.png",
     "websiteUrl": "https://pactfoundation.com",
     "panoraUI": true,
