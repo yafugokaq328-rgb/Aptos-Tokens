@@ -3567,5 +3567,16 @@
     "panoraIndex": 1000002,
     "coinGeckoId": "apollo-diversified-credit-securitize-fund",
     "coinMarketCapId": null
+   },
+  {
+    "chainId": 1,
+    "tokenAddress": "0xdf693f33592eff0468ae85b610ae2fcbf7597918e857e476a139382afee964a7",
+    "faAddress": "0xdf693f33592eff0468ae85b610ae2fcbf7597918e857e476a139382afee964a7",
+    "name": "TaidaU",
+    "symbol": "TUSD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/TUSD.png"
   }
+]
+
 ]
